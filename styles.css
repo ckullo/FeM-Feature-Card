@@ -21,7 +21,7 @@
 
 body {
   font-family: 'Poppins', Arial, sans-serif;
-  background: whitesmoke;
+  background: hsl(0, 0%, 98%);
   color: var(--clr-dark-blue);
   min-height: 100vh;
 }
